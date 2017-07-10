@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="fastlane/assets/fastlane_text.png" alt="fastlane Logo" />
+  <img src="ksyfast/assets/ksyfast_logo.png" alt="ksyfast Logo" />
 </h3>
 
 # ksyfast
