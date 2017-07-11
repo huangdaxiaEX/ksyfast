@@ -1,0 +1,47 @@
+# OS X Finder
+.DS_Store
+
+*.xcuserstate  
+project.xcworkspace  
+xcuserdata  
+UserInterfaceState.xcuserstate  
+project.xcworkspace/  
+xcuserdata/  
+
+UserInterface.xcuserstate
+
+# Xcode per-user config
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+xcuserdata
+*.xccheckout
+
+# Build products
+builds/
+*.o
+*.LinkFileList
+*.hmap
+
+# Automatic backup files
+*~.nib/
+*.swp
+*~
+*.dat
+*.dep
+
+# Cocoapods Carthage
+Pods
+Carthage
+
+# AppCode specific files
+.idea/
+*.iml
+
+# Realm
+*.realm.log*
+*.realm.lock
+fastlane/report.xml
